@@ -1,0 +1,19 @@
+.Navone_block {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  padding: 4px 4px;
+}
+.Navone_1 a {
+  text-decoration: none;
+  margin: 0px 10px;
+  color: white;
+}
+.Navone_2 a {
+  margin: 0px 10px;
+  text-decoration: none;
+  color: white;
+}
+.icon {
+  color: white;
+}

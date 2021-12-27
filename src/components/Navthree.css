@@ -1,0 +1,29 @@
+.Main_Block {
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Navthree_1 a {
+  margin: auto 4px;
+  font-weight: bold;
+}
+.Navthree_1 a:hover {
+  color: orange;
+  cursor: pointer;
+  border-bottom: 1px solid orange;
+}
+.Navthree_2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.Navthree_2 a {
+  margin: auto 10px;
+  text-decoration: none;
+  color: black;
+}
+.Navthree_2 a:hover {
+  color: blue;
+}
